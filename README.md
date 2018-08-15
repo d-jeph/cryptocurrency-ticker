@@ -5,7 +5,7 @@ A simple react applcation to help me track live price changes for four of the to
 
 The applciation gives live updates of the price changes in per minute interval curtesy of the [coinmarketcap api](https://coinmarketcap.com/api/).
 
-![alt text](https://github.com/d-jeph/cryptocurrency-ticker/public/md/caption.png "screen shot")
+![alt text](https://github.com/d-jeph/cryptocurrency-ticker/blob/master/public/md/caption.PNG "screen shot")
 
 Feel free to fork the application and customize it to do any other amazing job of your choice.
 
